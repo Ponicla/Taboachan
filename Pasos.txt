@@ -1,0 +1,6 @@
+1 - Crear una base de datos con cualquier nombre.
+2 - Volcar ese corona.sql y ejecutarlo en la nueva base de datos.
+3 - Descomprimir la carpeta corona en el root de wamp (osea que quede la carpeta corona con el contenido en www de wamp).
+4 - Cambiar los archivos de configuracion de la base de datos (son 2 - corona\bd\conexion.php Y C:\wamp64\www\corona\dashboard\bd\conexion.php).
+5 - Reiniciar wamp.
+6 Funciona padre.
